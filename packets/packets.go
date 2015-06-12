@@ -2,7 +2,7 @@ package packets
 
 import (
 	"bytes"
-	"code.google.com/p/go-uuid/uuid"
+	"github.com/go-mqtt/uuid"
 	"encoding/binary"
 	"errors"
 	"fmt"

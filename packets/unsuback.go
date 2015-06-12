@@ -1,7 +1,7 @@
 package packets
 
 import (
-	"code.google.com/p/go-uuid/uuid"
+	"github.com/go-mqtt/uuid"
 	"fmt"
 	"io"
 )
