@@ -16,7 +16,7 @@ package mqtt
 
 import (
 	"fmt"
-	"git.eclipse.org/gitroot/paho/org.eclipse.paho.mqtt.golang.git/packets"
+	"gopkg.in/mqtt.v0/packets"
 	"strconv"
 )
 
