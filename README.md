@@ -1,3 +1,11 @@
+This is a fork of the project from [Eclipse Paho](http://eclipse.org/paho). The imports have
+been changed to not depend on google code
+
+
+Original Readme follows
+=======================
+
+
 Eclipse Paho MQTT Go client
 ===========================
 
