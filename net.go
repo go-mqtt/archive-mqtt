@@ -18,7 +18,7 @@ import (
 	"golang.org/x/net/websocket"
 	"crypto/tls"
 	"errors"
-	"git.eclipse.org/gitroot/paho/org.eclipse.paho.mqtt.golang.git/packets"
+	"gopkg.in/mqtt.v0/packets"
 	"net"
 	"net/url"
 	"reflect"
